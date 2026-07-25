@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Abdelrahman Adel</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate Backend developer from Egypt</h3>
 <img align="right" alt="my life" width="400" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berlin880&label=Profile%20views&color=0e75b6&style=flat" alt="berlin880" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berlin880" alt="erlin880" /></a> </p>
